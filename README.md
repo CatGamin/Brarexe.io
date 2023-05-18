@@ -1,4 +1,4 @@
-# Brarex.io
+# Brarexe.io
 ![GitHub License](https://img.shields.io/github/license/Diep-clone/diep-clone_golang?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/diep-clone/diep-clone_golang?style=flat-square)
 [![HitCount](http://hits.dwyl.com/Diep-clone/diep-clone_golang.svg)](http://hits.dwyl.com/Diep-clone/diep-clone_golang)
