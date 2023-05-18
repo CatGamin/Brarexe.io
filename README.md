@@ -1,4 +1,4 @@
-# diep.io-clone
+# Brarex.io
 ![GitHub License](https://img.shields.io/github/license/Diep-clone/diep-clone_golang?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/diep-clone/diep-clone_golang?style=flat-square)
 [![HitCount](http://hits.dwyl.com/Diep-clone/diep-clone_golang.svg)](http://hits.dwyl.com/Diep-clone/diep-clone_golang)
@@ -36,3 +36,8 @@ Undeveloped parts are arranged in the Projects column.
 
 ---
 Copyright © 2019-2020
+(Warning! This Isnt My Project I Did Copy And Pasted It!)
+-
+-
+-
+Copyright © 2023
